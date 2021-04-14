@@ -1,0 +1,7 @@
+{
+    "contacts":[
+        {"id":1,"nom":"Lisangola","prenom":"Christian"},
+        {"id":2,"nom":"Mwanya","prenom":"Christian"},
+        {"id":3,"nom":"Mwanya","prenom":"Rachel"}
+    ]
+}
